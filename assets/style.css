@@ -600,3 +600,4 @@ a.linkedin:hover{opacity:.7}
 
 /* Texte justifié : biographies et réponses de la FAQ */
 .person__bio p,.faq-page details p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.coords-list--people dd a[href^="mailto"]{font-size:18px;color:var(--on-dark)}
